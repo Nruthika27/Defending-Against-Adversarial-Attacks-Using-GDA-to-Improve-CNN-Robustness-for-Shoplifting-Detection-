@@ -17,7 +17,7 @@ The pipeline is built around the UCF-Crime dataset (Shoplifting vs NormalVideos)
 - `ucf-nruthika-phase3.ipynb` — Conditional GAN training and synthetic sample generation
 - `nruthika-phase45-2.ipynb` — Defense comparison and final analysis
 - `Nruthika_Complete_Pipeline.ipynb` — Consolidated end-to-end pipeline notebook
-- `Nruthik_UFC_Technical Documentation.docx` — Detailed technical documentation
+- `Nruthik_UFC_Technical Documentation.docx` — Detailed technical documentation for the UCF-Crime pipeline (legacy filename kept as-is)
 
 ## Dataset
 
